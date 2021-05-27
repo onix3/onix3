@@ -19,7 +19,7 @@
 <br></br>
 
 [<img align="left" alt="SQL" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png)
-[<img align="left" alt="MySQL" height="30px" src="https://img2.pngio.com/mysql-logo-png-mysql-png-1280_1280.png" />](https://img2.pngio.com/mysql-logo-png-mysql-png-1280_1280.png)
+[<img align="left" alt="MySQL" height="30px" src="https://www.kindpng.com/picc/m/282-2827422_mysql-logo-png-mysql-png-transparent-png.png" />](https://www.kindpng.com/picc/m/282-2827422_mysql-logo-png-mysql-png-transparent-png.png)
 [<img align="left" alt="PostgreSQL" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png)
 [<img align="left" alt="SQLite" height="30px" src="https://www.pnglib.com/wp-content/uploads/2020/02/sqlite-logo_5e53a76543da5-980x436.png" />](https://www.pnglib.com/wp-content/uploads/2020/02/sqlite-logo_5e53a76543da5-980x436.png)
 
