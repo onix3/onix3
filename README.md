@@ -1,11 +1,5 @@
 ## Hello there, I'm onix!
 
-### I'm developer and codewars warrior 
-
-- ✔️ My closest goal: Become a Junior Golang Developer
-- 🔬 I’m currently learning web-development
-- :suspect: I’m looking to collaborate with other developers
-
 ### Technologies and Tools:
 
 [<img align="middle" alt="Python" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png)
@@ -21,11 +15,11 @@
 [<img align="left" alt="SQL" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png)
 [<img align="left" alt="MySQL" height="30px" src="https://www.kindpng.com/picc/m/282-2827422_mysql-logo-png-mysql-png-transparent-png.png" />](https://www.kindpng.com/picc/m/282-2827422_mysql-logo-png-mysql-png-transparent-png.png)
 [<img align="left" alt="PostgreSQL" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png)
-[<img align="left" alt="SQLite" height="30px" src="https://www.pnglib.com/wp-content/uploads/2020/02/sqlite-logo_5e53a76543da5-980x436.png" />](https://www.pnglib.com/wp-content/uploads/2020/02/sqlite-logo_5e53a76543da5-980x436.png)
+[<img align="left" alt="SQLite" height="30px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/sqlite_logo_icon_169724.png" />](https://cdn.icon-icons.com/icons2/2699/PNG/512/sqlite_logo_icon_169724.png)
 
 <br></br>
 
-[<img align="left" alt="Git" height="30px" src="https://gp1.wac.edgecastcdn.net/802B761/fh/assets/blog/2016-05/git.png" />](https://gp1.wac.edgecastcdn.net/802B761/fh/assets/blog/2016-05/git.png)
+[<img align="left" alt="Git" height="30px" src="https://git-scm.com/images/logos/logomark-orange@2x.png" />](https://git-scm.com/images/logos/logomark-orange@2x.png)
 [<img align="left" alt="Github" height="30px" src="https://raw.githubusercontent.com/github/explore/89bdd9644f44d1b12180fd512b95574fe4c54617/topics/github-api/github-api.png" />](https://raw.githubusercontent.com/github/explore/89bdd9644f44d1b12180fd512b95574fe4c54617/topics/github-api/github-api.png)
 
 <br></br>
